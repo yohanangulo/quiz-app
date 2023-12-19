@@ -46,7 +46,7 @@ class ResultsScreen extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Text(
-              'You answered $numCorrectQuestions out of $numTotalQuestions correctly!',
+              'You answered $numCorrectQuestions out of $numTotalQuestions correctly!!',
               style: GoogleFonts.lato(
                 color: const Color.fromARGB(255, 230, 200, 253),
                 fontWeight: FontWeight.bold,
